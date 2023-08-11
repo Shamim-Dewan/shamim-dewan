@@ -80,7 +80,8 @@ ul li a:hover {
     -o-border-radius: 10px;
     color: #3882F6;
 }
-#btn:hover{
+
+#btn:hover {
     background-color: #d45623;
 }
 
@@ -138,7 +139,7 @@ footer {
     display: flex;
     justify-content: space-around;
     background-color: #3882F6;
-    margin: 0 10%;
+    margin: 5% 10%;
     padding: 4% 0;
     border-radius: 5px;
     -webkit-border-radius: 5px;
@@ -170,4 +171,8 @@ footer {
     -ms-border-radius: 10px;
     -o-border-radius: 10px;
     color: #E5E7EB;
+}
+
+.small {
+    text-align: center;
 }
